@@ -70,6 +70,7 @@ Real-world system design examples from leading technology companies. Learn how t
 ### G
 - [Giphy - 10 Billion GIFs/Day to 1 Billion Users](https://newsletter.systemdesign.one/p/cdn-explained)
 - [Google - How Search Works](https://newsletter.systemdesign.one/p/search-engine-architecture)
+- [Google Docs - Real-Time Collaboration](http://newsletter.systemdesign.one/p/how-does-google-docs-work)
 - [GCP - Scaling to 100 Million Users](https://newsletter.systemdesign.one/p/google-cloud-scalability)
 
 ### H

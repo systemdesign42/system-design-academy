@@ -33,6 +33,7 @@ Traditional Request/Response     vs     Real-Time
 
 | Company | Scale | Key Pattern | Link |
 |---------|-------|-------------|------|
+| Google Docs | Real-time editing | Operational Transform (OT) | [Read](http://newsletter.systemdesign.one/p/how-does-google-docs-work) |
 | Canva | 135M users real-time | RSocket protocol | [Read](https://newsletter.systemdesign.one/p/rsocket) |
 
 ### Live Events
