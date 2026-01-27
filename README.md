@@ -1,253 +1,181 @@
-<p>
-  <a href="https://newsletter.systemdesign.one/"><img src="https://i.imgur.com/dea4G0P.png" /> </a>
+# Conquering System Design
+
+A comprehensive learning resource for mastering system design, from fundamentals to distributed systems at scale.
+
+<p align="center">
+  <a href="https://newsletter.systemdesign.one/">
+    <img src="https://i.imgur.com/dea4G0P.png" alt="System Design Newsletter" />
+  </a>
 </p>
 
 <p align="center">
-  👋
   <a href="https://newsletter.systemdesign.one/">
-    <b> Join Newsletter </b>
+    <b>Join the Newsletter for Weekly Deep Dives</b>
   </a>
 </p>
 
 ---
 
-#### [System Design Case Study](#System-Design-Case-Study-1)
+## What's Inside
 
-|     |     |     |     |     |     |     |     |     |
-|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [#](#-companies)  | [A](#a-companies)  | [B](#b-companies)  | [C](#c-companies)  | [D](#d-companies)  | [](#e-companies)  | [F](#f-companies)  | [G](#g-companies)  | [H](#h-companies)  |
-| [I](#i-companies)  | [](#j-companies)  | [K](#k-companies)  | [L](#l-companies)  | [M](#m-companies)  | [N](#n-companies)  | [](#o-companies)  | [P](#p-companies)  | [Q](#q-companies)  |
-| [R](#r-companies)  | [S](#s-companies)  | [T](#t-companies)  | [U](#u-companies)  | [V](#v-companies)  | [W](#w-companies)  | [](#x-companies)  | [Y](#y-companies)  | [Z](#z-companies)   |
-
-
-#### [System Design Fundamentals](#System-Design-Fundamentals-1)
-
-|    |    |    |    |    |    |    |    |    |
-|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [#](#-technologies)  | [A](#a-technologies)  | [B](#b-technologies)  | [C](#c-technologies)  | [D](#d-technologies)  | [](#e-technologies)  | [](#f-technologies)  | [G](#g-technologies)  | [H](#h-technologies)  |
-| [](#i-technologies)  | [](#j-technologies)  | [](#k-technologies)  | [](#l-technologies)  | [M](#m-technologies)  | [N](#n-technologies)  | [](#o-technologies)  | [](#p-technologies)  | [Q](#q-technologies)  |
-| [R](#r-technologies)  | [S](#s-technologies)  | [](#t-technologies)  | [](#u-technologies)  | [](#v-technologies)  | [](#w-technologies)  | [](#x-technologies)  | [](#y-technologies)  | [](#z-technologies) |
-
-
-#### [Software White Papers](#Software-White-Papers-1)
-
-|    |    |    |    |    |    |    |    |    |
-|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [](#-white-papers)  | [](#a-white-papers)  | [](#b-white-papers)  | [](#c-white-papers)  | [D](#d-white-papers)  | [](#e-white-papers)  | [](#f-white-papers)  | [](#g-white-papers)  | [](#h-white-papers)  |
-| [](#i-white-papers)  | [](#j-white-papers)  | [](#k-white-papers)  | [](#l-white-papers)  | [](#m-white-papers)  | [](#n-white-papers)  | [](#o-white-papers)  | [](#p-white-papers)  | [](#q-white-papers)  |
-| [](#r-white-papers)  | [S](#s-white-papers)  | [](#t-white-papers)  | [](#u-white-papers)  | [](#v-white-papers)  | [](#w-white-papers)  | [](#x-white-papers)  | [](#y-white-papers)  | [](#z-white-papers) |
-
+| Section | Description |
+|---------|-------------|
+| [Learning Paths](#learning-paths) | Structured curriculum from beginner to advanced |
+| [Case Studies](#case-studies) | Real-world examples from 50+ companies |
+| [Fundamentals](#fundamentals) | Core concepts and patterns |
+| [Cheatsheets](#cheatsheets) | Quick reference guides for interviews |
 
 ---
 
-# System Design
+## Learning Paths
 
-## System Design Case Study
+Structured paths to master system design at your own pace.
 
-#### \# companies
+| Path | Duration | For | Start Here |
+|------|----------|-----|------------|
+| [Beginner](./learning-paths/beginner.md) | 4-6 weeks | New to system design | Understanding the basics |
+| [Intermediate](./learning-paths/intermediate.md) | 6-8 weeks | Ready for real-world patterns | Scaling and databases |
+| [Advanced](./learning-paths/advanced.md) | 8-12 weeks | Targeting senior/staff roles | Distributed systems |
 
-- [Real-Time Gaming Leaderboard](https://systemdesign.one/leaderboard-system-design/)
-- [Real-Time Live Comments](https://systemdesign.one/live-comment-system-design/)
-- [Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
-- [Real Time Presence Platform](https://systemdesign.one/real-time-presence-platform-system-design/)
-
-#### A companies
-
-- [How to Scale an App to 10 Million Users on AWS](https://newsletter.systemdesign.one/p/aws-scale)
-- [This Is How Airbnb Adopted HTTP Streaming to Save 84 Million USD in Costs](https://newsletter.systemdesign.one/p/what-is-critical-rendering-path)
-- [Amazon Prime Video Microservices Top Failure](https://newsletter.systemdesign.one/p/prime-video-microservices)
-- [How Amazon S3 Achieves 99.999999999% Durability](https://newsletter.systemdesign.one/p/amazon-s3-durability)
-- [How Amazon Lambda Works](https://newsletter.systemdesign.one/p/how-does-aws-lambda-work)
-- [How Amazon S3 Works](https://newsletter.systemdesign.one/p/s3-architecture)
-
-#### B companies
-
-- [Bitly URL Shortener Architecture](https://systemdesign.one/url-shortening-system-design/)
-
-#### C companies
-
-- [How Canva Supports Real-Time Collaboration for 135 Million Monthly Users](https://newsletter.systemdesign.one/p/rsocket)
-- [How Cloudflare Was Able to Support 55 Million Requests per Second With Only 15 Postgres Clusters](https://newsletter.systemdesign.one/p/postgresql-scalability)
-
-#### D companies
-
-- [How Disney+ Hotstar Delivered 5 Billion Emojis in Real Time](https://newsletter.systemdesign.one/p/hotstar-architecture)
-- [How Disney+ Hotstar Scaled to 25 Million Concurrent Users](https://newsletter.systemdesign.one/p/hotstar-scaling)
-- [How Disney+ Scaled to 11 Million Users on Launch Day](https://newsletter.systemdesign.one/p/disney-architecture)
-- [How Discord Boosts Performance With Code-Splitting](https://newsletter.systemdesign.one/p/what-is-code-splitting-in-react)
-- [How Dropbox Scaled to 100 Thousand Users in a Year After Launch](https://newsletter.systemdesign.one/p/dropbox-architecture)
-
-#### F companies
-
-- [How Facebook Scaled Live Video to a Billion Users](https://newsletter.systemdesign.one/p/live-streaming-architecture)
-- [How Facebook Was Able to Support a Billion Users via Software Load Balancer](https://newsletter.systemdesign.one/p/facebook-load-balancer)
-
-
-#### G companies
-
-- [How Google Search Works](https://newsletter.systemdesign.one/p/search-engine-architecture)
-- [How Giphy Delivers 10 Billion GIFs a Day to 1 Billion Users](https://newsletter.systemdesign.one/p/cdn-explained)
-- [How to Scale an App to 100 Million Users on GCP](https://newsletter.systemdesign.one/p/google-cloud-scalability)
-
-#### H companies
-
-- [How Hashnode Generates Feed at Scale](https://newsletter.systemdesign.one/p/feed-architecture)
-- [How Halo Scaled to 11.6 Million Users Using the Saga Design Pattern](https://newsletter.systemdesign.one/p/saga-design-pattern)
-
-#### I companies
-
-- [How Instagram Scaled to 2.5 Billion Users](https://newsletter.systemdesign.one/p/instagram-infrastructure)
-
-
-#### K companies
-
-- [How Khan Academy Scaled to 30 Million Users](https://newsletter.systemdesign.one/p/khan-academy-architecture)
-
-#### L companies
-
-- [How LinkedIn Scaled to 930 Million Users](https://newsletter.systemdesign.one/p/scalable-software-architecture)
-- [How LinkedIn Adopted Protocol Buffers to Reduce Latency by 60%](https://newsletter.systemdesign.one/p/protocol-buffers-vs-json)
-- [Tech Stack Evolution at Levels fyi](https://newsletter.systemdesign.one/p/levels-fyi-google-sheets)
-- [How Lyft Support Rides to 21 Million Users](https://newsletter.systemdesign.one/p/lyft-engineering)
-
-#### M companies
-
-- [How McDonald’s Food Delivery Platform Handles 20,000 Orders per Second](https://newsletter.systemdesign.one/p/mcdonalds-architecture)
-- [How Meta Achieves 99.99999999% Cache Consistency](https://newsletter.systemdesign.one/p/cache-consistency)
-
-#### N companies
-
-- [How Does Netflix Work?](https://newsletter.systemdesign.one/p/how-does-netflix-work)
-- [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
-- [How Netflix Uses Chaos Engineering to Create Resilience Systems](https://newsletter.systemdesign.one/p/chaos-engineering)
-
-#### P companies
-
-- [How PayPal Was Able to Support a Billion Transactions per Day With Only 8 Virtual Machines](https://newsletter.systemdesign.one/p/actor-model)
-- [Pastebin](https://systemdesign.one/system-design-pastebin/)
-
-#### Q companies
-
-- [This Is How Quora Shards MySQL to Handle 13+ Terabytes](https://newsletter.systemdesign.one/p/mysql-sharding)
-
-#### R companies
-
-- [How Razorpay Scaled to Handle Flash Sales at 1500 Requests per Second](https://newsletter.systemdesign.one/p/payment-gateway-architecture)
-
-#### S companies
-
-- [Slack Architecture](https://systemdesign.one/slack-architecture/)
-- [Virtual Waiting Room Architecture That Handles High-Demand Ticket Sales at SeatGeek](https://newsletter.systemdesign.one/p/virtual-waiting-room)
-- [How Shopify Handles Flash Sales at 32 Million Requests per Minute](https://newsletter.systemdesign.one/p/shopify-flash-sale)
-- [This Is How Stripe Does Rate Limiting to Build Scalable APIs](https://newsletter.systemdesign.one/p/rate-limiter)
-- [How Stripe Prevents Double Payment Using Idempotent API](https://newsletter.systemdesign.one/p/idempotent-api)
-
-#### T companies
-
-- [Tumblr Shares Database Migration Strategy With 60+ Billion Rows](https://newsletter.systemdesign.one/p/how-to-migrate-a-mysql-database)
-- [6 Proven Guidelines on Open Sourcing From Tumblr](https://newsletter.systemdesign.one/p/open-source-guidelines)
-- [How Tinder Scaled to 1.6 Billion Swipes per Day](https://newsletter.systemdesign.one/p/tinder-architecture)
-
-#### U companies
-
-- [How Uber Computes ETA at Half a Million Requests per Second](https://newsletter.systemdesign.one/p/uber-eta)
-- [How Uber Finds Nearby Drivers at 1 Million Requests per Second](https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers)
-
-#### W companies
-
-- [8 Reasons Why WhatsApp Was Able to Support 50 Billion Messages a Day With Only 32 Engineers](https://newsletter.systemdesign.one/p/whatsapp-engineering)
-- [Wechat Architecture That Powers 1.67 Billion Monthly Users](https://newsletter.systemdesign.one/p/chat-application-architecture)
-
-#### Y companies
-
-- [11 Reasons Why YouTube Was Able to Support 100 Million Video Views a Day With Only 9 Engineers](https://newsletter.systemdesign.one/p/youtube-scalability)
-- [How YouTube Was Able to Support 2.49 Billion Users With MySQL](https://newsletter.systemdesign.one/p/vitess-mysql)
-
-#### Z companies
-
-- [5 Reasons Why Zoom Was Able to Support 300 Million Video Calls a Day](https://newsletter.systemdesign.one/p/zoom-architecture)
-- [How Zapier Automates Billions of Tasks](https://newsletter.systemdesign.one/p/zapier-architecture)
+**How to use**: Follow paths in order. Each includes readings, exercises, and self-assessments.
 
 ---
 
-## System Design Fundamentals
+## Case Studies
 
-#### \# technologies
+Learn from how the world's leading companies solve scaling challenges.
 
-- [Back of the Envelope](https://systemdesign.one/back-of-the-envelope/)
-- [How to Troubleshoot if You Can’t Access a Particular Website?](https://systemdesign.one/how-to-troubleshoot-if-you-cannot-access-a-website/)
-- [What Happens When You Type a URL Into Your Browser?](https://systemdesign.one/what-happens-when-you-type-url-into-your-browser/)
-- [System Design Interview Cheat Sheet](https://systemdesign.one/system-design-interview-cheatsheet/)
-- [Software Engineer Interview Learning Resources](https://systemdesign.one/software-engineer-interview-learning-resources/)
-- [7 Simple Ways to Fail System Design Interview](https://newsletter.systemdesign.one/p/design-system-newsletter)
-- [Amazon Frugal Architecture Explained](https://newsletter.systemdesign.one/p/frugal-architecture)
+### By Theme
 
-#### A technologies
+| Category | Focus | Companies |
+|----------|-------|-----------|
+| [Scaling](./case-studies/scaling/) | Growing to millions of users | Instagram, LinkedIn, Netflix, Disney+ |
+| [Real-Time](./case-studies/real-time/) | Live updates and streaming | Slack, WhatsApp, Canva, Zoom |
+| [Databases](./case-studies/databases/) | Data at scale | YouTube, Quora, Cloudflare |
+| [Infrastructure](./case-studies/infrastructure/) | Core building blocks | AWS, Nginx, Facebook |
+| [Payments](./case-studies/payments/) | Financial systems | Stripe, PayPal, Razorpay |
+| [Search & Discovery](./case-studies/search-discovery/) | Finding and matching | Google, Uber, Tinder |
 
-- [Actor Model](https://newsletter.systemdesign.one/p/actor-model)
+### Highlights
 
-#### B technologies
+| Company | Achievement | Key Concept |
+|---------|-------------|-------------|
+| WhatsApp | 50B messages/day with 32 engineers | Erlang, efficiency |
+| YouTube | 2.49B users on MySQL | Vitess, sharding |
+| PayPal | 1B transactions/day with 8 VMs | Actor model |
+| Meta | 99.99999999% cache consistency | Distributed caching |
+| Uber | 1M requests/sec for nearby drivers | Geospatial indexing |
 
-- [Bloom Filter](https://systemdesign.one/bloom-filters-explained/)
-
-#### C technologies
-
-- [Cell Based Architecture](https://newsletter.systemdesign.one/p/cell-based-architecture)
-- [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
-- [Top 5 Caching Patterns](https://newsletter.systemdesign.one/p/caching-patterns)
-- [How Discord Boosts Performance With Code-Splitting](https://newsletter.systemdesign.one/p/what-is-code-splitting-in-react)
-- [Consistent Hashing](https://systemdesign.one/consistent-hashing-explained/)
-
-
-#### D technologies
-
-- [How Databases Keep Passwords Securely](https://newsletter.systemdesign.one/p/how-to-store-passwords-in-database)
-
-
-#### G technologies
-
-- [Gossip Protocol](https://systemdesign.one/gossip-protocol/)
-
-#### H technologies
-
-- [Hinted Handoff](https://systemdesign.one/hinted-handoff/)
-
-#### M technologies
-
-- [Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends)
-- [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
-
-#### N technologies
-
-- [How Nginx Was Able to Support 1 Million Concurrent Connections on a Single Server](https://newsletter.systemdesign.one/p/how-does-nginx-work)
-
-#### Q technologies
-
-- [Quotient Filter](https://systemdesign.one/quotient-filter-explained/)
-
-#### R technologies
-
-- [Redis Use Cases](https://newsletter.systemdesign.one/p/redis-use-cases)
-
-#### S technologies
-
-- [Service Discovery](https://systemdesign.one/what-is-service-discovery/)
+[Browse all 50+ case studies](./case-studies/)
 
 ---
 
-## Software White Papers
+## Fundamentals
 
-#### D white papers
+Core concepts that underpin all large-scale systems.
 
-- [Amazon Dynamo](https://newsletter.systemdesign.one/p/amazon-dynamo-architecture)
+| Topic | Key Concepts | Link |
+|-------|--------------|------|
+| Caching | Patterns, consistency, Redis | [Read](./fundamentals/caching.md) |
+| Load Balancing | L4/L7, algorithms, health checks | [Read](./fundamentals/load-balancing.md) |
+| Databases | CAP theorem, sharding, replication | [Read](./fundamentals/databases.md) |
+| Distributed Systems | Gossip, consensus, data structures | [Read](./fundamentals/distributed-systems.md) |
+| API Design | Rate limiting, idempotency, protocols | [Read](./fundamentals/api-design.md) |
 
+[Explore all fundamentals](./fundamentals/)
 
-#### S white papers
+---
 
-- [Google Spanner](https://newsletter.systemdesign.one/p/cloud-spanner-database)
+## Cheatsheets
+
+Quick reference guides for interviews and daily work.
+
+| Cheatsheet | Use For |
+|------------|---------|
+| [Numbers Everyone Should Know](./cheatsheets/numbers.md) | Back-of-envelope calculations |
+| [Scaling Patterns](./cheatsheets/scaling-patterns.md) | Choosing the right approach |
+| [Interview Framework](./cheatsheets/interview-framework.md) | Structured interview approach |
+
+---
+
+## White Papers
+
+Foundational papers that shaped modern distributed systems.
+
+| Paper | Innovation | Link |
+|-------|------------|------|
+| Amazon Dynamo | Eventual consistency, consistent hashing | [Read](https://newsletter.systemdesign.one/p/amazon-dynamo-architecture) |
+| Google Spanner | Global transactions, TrueTime | [Read](https://newsletter.systemdesign.one/p/cloud-spanner-database) |
+
+---
+
+## Quick Start
+
+### New to System Design?
+1. Start with [Beginner Learning Path](./learning-paths/beginner.md)
+2. Read [What Happens When You Type a URL](https://systemdesign.one/what-happens-when-you-type-url-into-your-browser/)
+3. Learn [Back of the Envelope](https://systemdesign.one/back-of-the-envelope/) calculations
+
+### Preparing for Interviews?
+1. Review the [Interview Framework](./cheatsheets/interview-framework.md)
+2. Memorize [Numbers Everyone Should Know](./cheatsheets/numbers.md)
+3. Practice with case studies
+
+### Looking for Specific Topics?
+- Browse [Case Studies by Theme](./case-studies/)
+- Explore [Fundamentals](./fundamentals/)
+
+---
+
+## Repository Structure
+
+```
+conquering-system-design/
+├── README.md                 # You are here
+├── learning-paths/           # Structured learning curriculum
+│   ├── beginner.md
+│   ├── intermediate.md
+│   └── advanced.md
+├── case-studies/             # Real-world examples
+│   ├── scaling/
+│   ├── real-time/
+│   ├── databases/
+│   ├── infrastructure/
+│   ├── payments/
+│   └── search-discovery/
+├── fundamentals/             # Core concepts
+│   ├── caching.md
+│   ├── load-balancing.md
+│   ├── databases.md
+│   ├── distributed-systems.md
+│   └── api-design.md
+└── cheatsheets/              # Quick references
+    ├── numbers.md
+    ├── scaling-patterns.md
+    └── interview-framework.md
+```
+
+---
+
+## Contributing
+
+Found an issue or want to add content? Contributions are welcome!
+
+1. Fork the repository
+2. Create a feature branch
+3. Submit a pull request
 
 ---
 
 ## License
 
-<p>Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0</p>
+<p>Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-NC-ND 4.0</a></p>
+
+---
+
+<p align="center">
+  <a href="https://newsletter.systemdesign.one/">
+    <b>Subscribe to the Newsletter</b>
+  </a>
+  for weekly system design deep dives
+</p>
