@@ -44,7 +44,7 @@
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-ai)  | [A](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [D](#d-ai)  | [E](#e-ai)  | [](#f-ai)  | [G](#g-ai)  | [](#h-ai)  |
-| [](#i-ai)  | [](#j-ai)  | [K](#k-ai)  | [L](#l-ai)  | [M](#m-ai)  | [](#n-ai)  | [O](#o-ai)  | [](#p-ai)  | [](#q-ai)  |
+| [I](#i-ai)  | [](#j-ai)  | [K](#k-ai)  | [L](#l-ai)  | [M](#m-ai)  | [](#n-ai)  | [O](#o-ai)  | [](#p-ai)  | [](#q-ai)  |
 | [R](#r-ai)  | [](#s-ai)  | [](#t-ai)  | [](#u-ai)  | [V](#v-ai)  | [](#w-ai)  | [](#x-ai)  | [](#y-ai)  | [](#z-ai) |
 
 
@@ -386,6 +386,9 @@
 
 #### G ai
 - [Everything You Need to Know to Design GenAI Systems From Scratch](https://newsletter.systemdesign.one/p/generative-ai-system-design)
+
+#### I ai
+- [What is AI Infrastructure](https://newsletter.systemdesign.one/p/what-is-ai-infrastructure)
 
 #### K ai
 - [Design Knowledge Q&A System](https://newsletter.systemdesign.one/p/ai-based-knowledge-management-system)
