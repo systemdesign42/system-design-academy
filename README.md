@@ -282,6 +282,7 @@
 #### K technologies
 
 - [How Kafka Works](https://newsletter.systemdesign.one/p/how-kafka-works)
+- [How Kubernetes Works](https://newsletter.systemdesign.one/p/kubernetes-architecture)
 
 #### L technologies
 
