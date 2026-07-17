@@ -385,6 +385,7 @@
 
 #### D ai
 - [Agentic Design Patterns](https://newsletter.systemdesign.one/p/agentic-design-patterns)
+- [How to Build a Domain Expert AI](https://newsletter.systemdesign.one/p/fine-tuning-ai-models)
 
 #### E ai
 - [29 LLM Evaluation Concepts](https://newsletter.systemdesign.one/p/llm-evals)
