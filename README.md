@@ -44,7 +44,7 @@
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-ai)  | [A](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [D](#d-ai)  | [E](#e-ai)  | [](#f-ai)  | [G](#g-ai)  | [](#h-ai)  |
-| [I](#i-ai)  | [](#j-ai)  | [K](#k-ai)  | [L](#l-ai)  | [M](#m-ai)  | [](#n-ai)  | [O](#o-ai)  | [](#p-ai)  | [](#q-ai)  |
+| [I](#i-ai)  | [](#j-ai)  | [K](#k-ai)  | [L](#l-ai)  | [M](#m-ai)  | [N](#n-ai)  | [O](#o-ai)  | [](#p-ai)  | [](#q-ai)  |
 | [R](#r-ai)  | [](#s-ai)  | [](#t-ai)  | [](#u-ai)  | [V](#v-ai)  | [](#w-ai)  | [](#x-ai)  | [](#y-ai)  | [](#z-ai) |
 
 
@@ -411,6 +411,9 @@
 - [How ML Systems Actually Work: From Data to Deployment](https://newsletter.systemdesign.one/p/machine-learning-system-design-interview)
 - [AI Agents: State, Memory, Consistency](https://newsletter.systemdesign.one/p/ai-agent-memory)
 
+#### N ai
+
+- [How to use NotebookLM](https://newsletter.systemdesign.one/p/how-to-use-notebooklm)
 
 #### O ai
 
