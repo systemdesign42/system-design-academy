@@ -292,6 +292,7 @@ You write the rules files, maintain the skills, and paste in the Slack thread yo
 
 - [Gossip Protocol](https://systemdesign.one/gossip-protocol/)
 - [21 Git Commands](https://newsletter.systemdesign.one/p/commands-in-git)
+- [How GitOps Works](https://newsletter.systemdesign.one/p/how-argocd-works-gitops-kubernetes)
 
 #### H technologies
 
