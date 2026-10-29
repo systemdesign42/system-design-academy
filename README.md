@@ -354,6 +354,7 @@ You write the rules files, maintain the skills, and paste in the Slack thread yo
 - [How Stock Exchange Works - Part 1](https://newsletter.systemdesign.one/p/stock-exchange-system-design)
 - [How Stock Exchange Handles Concurrency at Scale - Part 2](https://newsletter.systemdesign.one/p/disruptor-pattern)
 - [Design Stock Exchange: A Deep Dive - Part 3](https://newsletter.systemdesign.one/p/system-design-stock-exchange)
+- [Scalability Patterns - Part 1](https://newsletter.systemdesign.one/p/scalability-patterns-system-design)
 
 #### T technologies
 - [50 System Design Tradeoffs](https://newsletter.systemdesign.one/p/system-design-tradeoffs)
