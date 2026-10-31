@@ -425,6 +425,7 @@ You write the rules files, maintain the skills, and paste in the Slack thread yo
 - [Claude Code - Part 2](https://newsletter.systemdesign.one/p/claude-code-mcp-vs-cli)
 - [Claude Code - Part 3](https://newsletter.systemdesign.one/p/claude-code-subagents-vs-agent-teams)
 - [Claude Code - Part 4](https://newsletter.systemdesign.one/p/claude-code-website-monitoring-routine)
+- [Claude Code - Part 5](https://newsletter.systemdesign.one/p/claude-code-token-usage)
 
 #### D ai
 - [Agentic Design Patterns](https://newsletter.systemdesign.one/p/agentic-design-patterns)
