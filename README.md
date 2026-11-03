@@ -445,6 +445,7 @@ You write the rules files, maintain the skills, and paste in the Slack thread yo
 #### I ai
 - [What is AI Infrastructure](https://newsletter.systemdesign.one/p/what-is-ai-infrastructure)
 - [How to Build AI Agents That Don’t Start Over When They Fail](https://newsletter.systemdesign.one/p/durable-ai-agents)
+- [How LLM Inference Works](https://newsletter.systemdesign.one/p/how-llm-inference-works)
 
 #### K ai
 - [Design Knowledge Q&A System](https://newsletter.systemdesign.one/p/ai-based-knowledge-management-system)
