@@ -40,7 +40,7 @@ You write the rules files, maintain the skills, and paste in the Slack thread yo
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-interview)  | [A](#a-interview)  | [](#b-interview)  | [C](#c-interview)  | [](#d-interview)  | [](#e-interview)  | [](#f-interview)  | [](#g-interview)  | [](#h-interview)  |
-| [](#i-interview)  | [](#j-interview)  | [](#k-interview)  | [](#l-interview)  | [](#m-interview)  | [](#n-interview)  | [](#o-interview)  | [](#p-interview)  | [](#q-interview)  |
+| [](#i-interview)  | [](#j-interview)  | [](#k-interview)  | [L](#l-interview)  | [](#m-interview)  | [](#n-interview)  | [](#o-interview)  | [](#p-interview)  | [](#q-interview)  |
 | [R](#r-interview)  | [S](#s-interview)  | [T](#t-interview)  | [](#u-interview)  | [](#v-interview)  | [W](#w-interview)  | [](#x-interview)  | [Y](#y-interview)  | [](#z-interview) |
 
 
@@ -379,6 +379,9 @@ You write the rules files, maintain the skills, and paste in the Slack thread yo
 
 #### C interview
 - [System Design Interview: Design ChatGPT](https://newsletter.systemdesign.one/p/chatgpt-system-design)
+
+#### L interview
+- [Live Streaming System Design](https://newsletter.systemdesign.one/p/live-streaming-system-design)
 
 #### R interview
 - [Software Engineer Resume](https://newsletter.systemdesign.one/p/software-engineer-resume)
