@@ -358,6 +358,7 @@ You write the rules files, maintain the skills, and paste in the Slack thread yo
 
 #### T technologies
 - [50 System Design Tradeoffs](https://newsletter.systemdesign.one/p/system-design-tradeoffs)
+- [How Terraform Works](https://newsletter.systemdesign.one/p/how-terraform-works-internally)
 
 #### W technologies
 
