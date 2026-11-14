@@ -474,6 +474,7 @@ You write the rules files, maintain the skills, and paste in the Slack thread yo
 #### O ai
 
 - [How OpenClaw Works](https://newsletter.systemdesign.one/p/openclaw-architecture)
+- [AI Agent Observability](https://newsletter.systemdesign.one/p/ai-agent-observability-opentelemetry)
 
 #### P ai
 
