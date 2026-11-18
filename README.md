@@ -1,21 +1,3 @@
-<p align="center">
-  <a href="https://getunblocked.com/events/how-to-stop-rewriting-your-agent-s-code-oct-28/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign"><img src="https://i.imgur.com/rvY9aLw.png" /> </a>
-</p>
-
-
-<p align="center">
-You write the rules files, maintain the skills, and paste in the Slack thread your agent missed. But hand-curated context goes stale, and when the sources disagree, your agent can’t tell which is right. <a href="https://getunblocked.com/events/how-to-stop-rewriting-your-agent-s-code-oct-28/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">Join us live on Oct 28 (FREE)</a> to see how a context engine helps agents get it right the first time.
-</p>
-
-<p align="center">
-   👋
-   <a href="https://getunblocked.com/events/how-to-stop-rewriting-your-agent-s-code-oct-28/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">
-     <b> Register now </b>
-   </a>
-</p>
-
----
-
 
 #### [System Design Case Study](#System-Design-Case-Study-1)
 
