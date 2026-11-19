@@ -427,6 +427,7 @@
 #### G ai
 - [Everything You Need to Know to Design GenAI Systems From Scratch](https://newsletter.systemdesign.one/p/generative-ai-system-design)
 - [AI Agent - Graph Shaped Memory](https://newsletter.systemdesign.one/p/graph-based-agent-memory)
+- [How GraphRAG Works](https://newsletter.systemdesign.one/p/graph-retrieval-augmented-generation)
 
 #### I ai
 - [What is AI Infrastructure](https://newsletter.systemdesign.one/p/what-is-ai-infrastructure)
