@@ -409,6 +409,7 @@
 - [Context Engineering vs Prompt Engineering](https://newsletter.systemdesign.one/p/context-engineering-vs-prompt-engineering)
 - [How ChatGPT Apps Work](https://newsletter.systemdesign.one/p/apps-in-chatgpt)
 - [Design a personal AI chat assistant](https://newsletter.systemdesign.one/p/ai-chat-assistant)
+- [How to build an AI coding assistant](https://newsletter.systemdesign.one/p/how-to-build-ai-coding-assistant)
 - [Claude Folder - A Deep Dive](https://newsletter.systemdesign.one/p/claude-folder)
 - [Claude Code - Part 1](https://newsletter.systemdesign.one/p/claude-code-claude-md-best-practices)
 - [Claude Code - Part 2](https://newsletter.systemdesign.one/p/claude-code-mcp-vs-cli)
